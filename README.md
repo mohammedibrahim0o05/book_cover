@@ -1,5 +1,6 @@
 # Ex.06 Book Front Cover Page Design
-# name mohammed ibrahim mn
+# Name Mohammed Ibrahim MN
+# Date 19/04/25
 # AIM:
 To design a book front cover page using HTML and CSS.
 
